@@ -1,0 +1,35 @@
+{
+  "name": "react-samsara-demo1",
+  "version": "0.0.1",
+  "description": "A repo to play with samsara and react",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mj-networks/react-samsara-demo1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mj-networks/react-samsara-demo1.git/issues"
+  },
+  "devDependencies": {
+    "babel-core": "^6.2.1",
+    "babel-loader": "^6.2.0",
+    "babel-preset-es2015": "^6.1.18",
+    "babel-preset-react": "^6.1.18",
+    "babel-preset-stage-0": "^6.1.18",
+    "css-loader": "^0.23.0",
+    "promise": "^7.0.4",
+    "style-loader": "^0.13.0",
+    "webpack": "^1.12.9"
+  },
+  "author": "Jens Zastrow <jens.zastrow@mjn.io>",
+  "license": "MIT",
+  "dependencies": {
+    "fbjs": "^0.4.0",
+    "invariant": "^2.2.0",
+    "lodash": "^3.10.1",
+    "normalize.css": "^3.0.3",
+    "react": "^0.14.3",
+    "react-samsara-poc": "0.0.4",
+    "samsarajs": "0.0.4"
+  }
+}
