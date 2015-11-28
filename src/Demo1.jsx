@@ -1,4 +1,7 @@
 "use strict";
+require("normalize.css/normalize.css");
+require("samsarajs/samsara.css");
+
 var React = require('react');
 var {render, Surface} = require('react-samsara-poc');
 var Samsara = require('samsarajs');

@@ -29,7 +29,7 @@
     "lodash": "^3.10.1",
     "normalize.css": "^3.0.3",
     "react": "^0.14.3",
-    "react-samsara-poc": "0.0.4",
+    "react-samsara-poc": "0.0.5",
     "samsarajs": "0.0.4"
   }
 }
