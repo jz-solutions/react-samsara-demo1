@@ -64,7 +64,7 @@ var Example = React.createClass({
     });
 
     return (
-      <root>
+      <context>
         <node size={[100, 100]} transform={pos}>
           <Image name='Frog <br/> 100x100' picture='http://static.imgix.net/treefrog.jpg'/>
         </node>
@@ -74,7 +74,7 @@ var Example = React.createClass({
         <node size={[undefined, 100]} transform={Transform.translateY(302)}>
           <Image name='Espresso <br/> autox100' picture='http://static.imgix.net/espresso.jpg'/>
         </node>
-      </root>
+      </context>
     );
   }
 });
