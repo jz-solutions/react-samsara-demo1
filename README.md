@@ -85,6 +85,10 @@ render(<Example />, document.body);
 # Run demo 
 
 ```bash
-webpack-dev-server --content-base src src/Demo1.jsx
+./node_modules/webpack-dev-server/bin/webpack-dev-server.js  --content-base src src/Demo1.jsx
 ```
+
+open http://localhost:8080/main in browser 
+
+# Build-System
 How to: http://jamesknelson.com/using-es6-in-the-browser-with-babel-6-and-webpack/

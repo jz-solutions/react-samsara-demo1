@@ -19,7 +19,8 @@
     "css-loader": "^0.23.0",
     "promise": "^7.0.4",
     "style-loader": "^0.13.0",
-    "webpack": "^1.12.9"
+    "webpack": "^1.12.9",
+    "webpack-dev-server": "^1.14.0"
   },
   "author": "Jens Zastrow <jens.zastrow@mjn.io>",
   "license": "MIT",
